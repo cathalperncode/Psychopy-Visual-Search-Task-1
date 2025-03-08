@@ -1,5 +1,6 @@
 # <p align="center"> Psychopy Search Task 1 </p>
-## <p align="center"> Searching for a mushroom shape in an assigned context (between subjects) with either similar or distinct distractor mushrooms shapes </p>
+## <p align="center"> Python code for my first Visual Search Task </p>
+### <p align="center"> Searching for a mushroom shape in an assigned context (between subjects) with either similar or distinct distractor mushrooms shapes </p>
 
 ### Paradigm Overview:
 * Pseudorandomly assigns participants to 1 of 2 tagets and 1 of 2 group contexts based on a randomization excel file
